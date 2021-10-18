@@ -3987,8 +3987,11 @@ input[type="button"].btn--primary:focus {
     position: relative;
     margin-left: 20px;
     margin-bottom: 10px;
-    overflow: hidden;   
-
+    overflow: hidden;
+    border: 1px  solid white;
+    border-radius: 25px;
+    box-shadow: 15px 15px 14px #D3D3D3;
+    
 }
 
 .folio-item__thumb img{
