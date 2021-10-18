@@ -3961,7 +3961,7 @@ input[type="button"].btn--primary:focus {
  * ------------------------------------------------------------------- */
 .s-portfolio {
     background-color: var(--color-gray-1);
-    padding-top: calc(6 * var(--space));
+    padding-top: calc(4 * var(--space));
     padding-bottom: var(--vspace-5);
 }
 
@@ -3988,7 +3988,6 @@ input[type="button"].btn--primary:focus {
     margin-left: 20px;
     margin-bottom: 10px;
     overflow: hidden;
-    border: 1px  solid white;
     border-radius: 25px;
     box-shadow: 15px 15px 14px #D3D3D3;
     
